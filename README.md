@@ -61,5 +61,5 @@ Sou um desenvolvedor de software em formação pelo programa **Entra 21**, com f
 
 ### 📫 Como me encontrar:
 
-* **LinkedIn:** [https://www.linkedin.com/in/SEU-PERFIL-LINKEDIN/](https://www.linkedin.com/in/SEU-PERFIL-LINKEDIN/)
-* **Email:** SEUEMAIL@EXAMPLE.COM
+* **LinkedIn:** [https://www.linkedin.com/in/SEU-PERFIL-LINKEDIN/]([https://www.linkedin.com/in/SEU-PERFIL-LINKEDIN/](https://www.linkedin.com/in/sidney-arthur-azevedo-6822b9316/?trk=opento_sprofile_details))
+* **Email:** sidney.arthur.azevedp15@gmail.com
