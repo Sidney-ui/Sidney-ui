@@ -1,6 +1,6 @@
 # Olá, eu sou o Sidney! 👋
 
-<a href="https://www.linkedin.com/in/SEU-PERFIL-LINKEDIN" target="_blank"><img src="https://www.linkedin.com/in/sidney-arthur-azevedo-6822b9316/" target="_blank"></a>
+<a href="https://www.linkedin.com/in/sidney-arthur-azevedo-6822b9316/" target="_blank"><img src="https://www.linkedin.com/in/sidney-arthur-azevedo-6822b9316/" target="_blank"></a>
 <a href="mailto:SEUEMAIL@EXAMPLE.COM"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 Sou um desenvolvedor de software em formação pelo programa **Entra 21**, com foco em **Java**, **HTML**, **CSS** e **JavaScript**. Estou animado para aplicar meus conhecimentos em projetos desafiadores e continuar aprendendo no vasto mundo da tecnologia!
